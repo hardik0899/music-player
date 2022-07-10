@@ -68,6 +68,12 @@ dependencies {
 
     implementation 'androidx.core:core-splashscreen:1.0.0-alpha02'
 
+    // media player
+    implementation 'androidx.core:core:1.7.0'
+    implementation 'androidx.media:media:1.5.0'
+    implementation 'com.google.android.exoplayer:exoplayer:2.18.0'
+    implementation 'com.google.android.exoplayer:extension-mediasession:2.18.0'
+
     // Hilt - dependency injection
     implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-compiler:$hilt_version"
