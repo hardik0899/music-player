@@ -11,3 +11,11 @@ k
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 s
 Capp/src/main/java/com/example/musicplayer/MusicPlayerApplication.kt,d/9/d906da5a56d56cb79feb8da00894f06e6287a528
+j
+:app/src/main/java/com/example/musicplayer/ui/theme/Type.kt,5/8/582b863fe9e3e5f1755f1370c57a492ddcd64d9a
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
